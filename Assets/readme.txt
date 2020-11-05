@@ -1,1 +1,1 @@
-All assets and image files are in this app
+All assets and image files are in this folder
